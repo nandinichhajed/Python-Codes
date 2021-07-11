@@ -7,7 +7,7 @@
 # LETTERS 10
 # DIGITS 3
 
-word = input()
+word = input("Enter a string with numbers: ")
 letter, digit = 0,0
 
 for i in word:
@@ -15,4 +15,4 @@ for i in word:
         letter += 1
     elif i.isnumeric(): # returns True if numeric
         digit += 1
-print(f"LETTERS {letter}\nDIGIT {digit}") # two different types of formating method is shown in both solution
+print(f"LETTERS {letter}\nDIGIT {digit}") 
