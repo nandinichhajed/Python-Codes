@@ -9,4 +9,4 @@ for i in range(2000, 3200):
         print(i, end= ',')
 
 # alternative
-print(*(i for i in range(2000, 3201) if i %  == 0 and i % 5 != 0), end=",")
+print(*(i for i in range(2000, 3201) if i % 7 == 0 and i % 5 != 0), end=",")
