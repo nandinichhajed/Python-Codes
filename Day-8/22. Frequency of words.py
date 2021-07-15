@@ -18,3 +18,13 @@
 # to:1
 
 # Code
+from pprint import pprint
+a = input("Enter the String: ").split()
+word = sorted(set(a))
+for i in word:
+    b = a.count(i)
+    print(f"{i} : {b}")
+
+# Alternative
+a = input("Enter the String: ").split()
+pprint({i: a.count(i) for i in a})
