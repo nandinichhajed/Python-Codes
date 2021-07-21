@@ -13,7 +13,7 @@
 class my_generators():
     def generator_function(self, n):
         for i in range(0, int(n/7)+1):
-            yield i * 7
+            yield i * 7       # yeild pause the function
 
          # class         # function
 for i in my_generators().generator_function(int(input("Enter a no: "))):
