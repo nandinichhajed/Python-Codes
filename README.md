@@ -13,3 +13,7 @@ Coding Practice with Python
 If you're new to Python, I hope these 100+ exercises will assist you in getting your hands on the programming.
 
 The tasks are basic and quick to solve. A newbie should attempt 4-5 problems every day, which will take some time to complete but will undoubtedly teach them something new (no matter how lazy you are :P ). And after only a month of consistent practise, one may easily complete more than 100++ problems, which is unquestionably impressive.
+
+## 2. Practice Status
+
+* **[Day 1](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-1 "Day 1 Status")**- ***Question 1-3***
