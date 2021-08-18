@@ -16,7 +16,7 @@ The tasks are basic and quick to solve. A newbie should attempt 4-5 problems eve
 
 ## Practice Status
 
-* **[Day 1](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-1 "Day 1 Status")**- ***Question 1-3***
+c- ***Question 1-3***
 
 * **[Day 2](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-2 "Day 2 Status")**- ***Question 4-9***
 
