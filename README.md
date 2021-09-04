@@ -63,3 +63,13 @@ c- ***Question 1-3***
 * **[Day 23](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-23 "Day 23 Status")**- ***Question 95-99***
  
 * **[Day 24](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-24 "Day 24 Status")**- ***Question 100-103***
+
+<h2>Author</h2>
+<blockquote>
+  Nandini Chhajed<br>
+  Email: nandinichhajed08@gmail.com
+</blockquote>
+
+<div align="center">
+    <h3>========Thank You !!!=========</h3>
+</div>
