@@ -64,6 +64,13 @@ c- ***Question 1-3***
  
 * **[Day 24](https://github.com/nandinichhajed/Python-Codes/tree/main/Day-24 "Day 24 Status")**- ***Question 100-103***
 
+## Feedback
+
+These samples may be updated from time to time so you might want to get updates
+using `git pull`.  Also if there are bugs, you are welcome to submit
+a Pull Request on github.Either
+Reach out to me on [LinkedIn](https://linkedin.com/in/nandinichhajed)
+
 <h2>Author</h2>
 <blockquote>
   Nandini Chhajed<br>
