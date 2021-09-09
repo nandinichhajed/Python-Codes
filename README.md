@@ -78,5 +78,5 @@ Reach out to me on [LinkedIn](https://linkedin.com/in/nandinichhajed)
 </blockquote>
 
 <div align="center">
-    <h3>========Thank You !!!=========</h3>
+    <h3>========Thank-You !!!=========</h3>
 </div>
