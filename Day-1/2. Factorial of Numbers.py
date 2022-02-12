@@ -10,11 +10,13 @@ for i in range (1, n+1):
 print(fact)
 
 # alternative
+# n! = n * (n-1)!
+
 def fact(n):
     if n == 0:
         return 1
     else:
-        return n * fact(n-1)
+        return n * fact(n-1) # recurssion (function calling itself)
 
 n = int(input('Enter the number to find factorial:'))
 print(f'{n}! is: {fact(n)} ')
