@@ -1,6 +1,5 @@
 # Python-Codes
 Coding Practice with Python
-24 days challenge
 
 # 100+ Python challenging programming exercises
 
